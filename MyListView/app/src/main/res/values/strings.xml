@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="spinner_dialog_name">Please choice your city</string>
+</resources>
