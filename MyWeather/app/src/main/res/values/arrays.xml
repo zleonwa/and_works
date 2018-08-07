@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_list">
+        <item>Seoul</item><item>London</item><item>Paris</item><item>New York</item><item>Tokyo</item>
+        <item>Oslo</item><item>Madrid</item><item>Moscow</item><item>Singapore</item><item>Taipei</item>
+    </string-array>
+</resources>
